@@ -1,0 +1,44 @@
+.menu {
+    margin-left: 215px;
+    padding: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    
+  }
+  .menuButton {
+    padding-left: 200px;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  
+  body {
+    background-image: url(./imges/main_img1.jpg);
+    background-repeat:repeat-y;
+    background-attachment: fixed;
+    background-size: cover;
+    position: relative;
+    width: auto;
+    height: auto;
+    z-index: -1;
+  }
+  .cards{
+   position: absolute;
+   padding: 20px;
+   padding-top: 25px;
+   font-family: 'Times New Roman', Times, serif;
+  
+  }
+  
+  .title{
+    margin-left: 200px;
+    margin-bottom: 40px;
+    margin-top: 20px;
+    color: green;
+    font-family: "Time New roman";
+  }
+  .foot{
+    margin-top: -10px;
+    
+  }
+  .footer{
+    margin-top: 40%;
+   overflow: none;
+  }
